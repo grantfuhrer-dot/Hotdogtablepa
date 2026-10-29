@@ -2,7 +2,7 @@
 <table>
   <caption>This is a table to compare the increase in hot dog sales over the years in Pennsylvania</caption>
   <tr>
-    <th colspan="12">Hot Dogs </th>
+    <th colspan="13">Hot Dogs </th>
   </tr>
   <tr>
     <th>2013</th>
