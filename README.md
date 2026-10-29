@@ -34,10 +34,10 @@
     <td>7%</td>
     <td>19%</td>
   </tr>
+  
+</table>
   <ul>
     <li>Hot Dog sales decreased only in 2013 and 2020</li>
     <li>Hot Dogs were especially popular in 2025 and 2017</li>
     <li>The average amount of Hot Dog sales is 5%</li>
   </ul>
-  
-</table>
