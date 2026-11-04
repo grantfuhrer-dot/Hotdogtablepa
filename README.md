@@ -1,4 +1,3 @@
-# Hot Dog Table
 <table>
   <caption>This is a table to compare the increase in hot dog sales over the years in Pennsylvania</caption>
   <tr>
